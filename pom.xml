@@ -7,6 +7,7 @@
 	<name>SpringInAction</name>
 	<description>Spring in Action liburua irakurri heinean probak egiteko proiektua</description>
 
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework</groupId>
